@@ -13,11 +13,10 @@
 - ⚡ Fun fact: ...
 - 📫 How to reach me: ...
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-henrique-bb1247119/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-henrique-guimarães-bb1247119)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leonardo.guimaraeslhg@gmail.com)
 <a href="https://open.spotify.com/user/leonardo.guimaraes20?si=VMq21jurTra4zEw8DPsHDw" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Contact%20me%20-green)](https://api.whatsapp.com/send?phone=5531996731285&text=Ol%C3%A1%2C%20tudo%20joia%3F%20)
-https://img.shields.io/badge/Whatsapp-Contact%20me%20-green
 </p>
 
 <img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=l1n3rd4&show_icons=true&theme=dracula" width="50%" height="auto" />
