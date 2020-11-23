@@ -1,5 +1,5 @@
 ### Hello World! 👋
-<img align="right" alt="img" src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/coder.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/profile-git.jpg" width="50%" height="auto" />
 <p align="left" width="30%">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
