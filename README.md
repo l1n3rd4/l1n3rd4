@@ -4,12 +4,18 @@
 <img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=l1n3rd4&show_icons=true&theme=dracula" width="50%" height="auto" />
 
 <p align="left" width="30%">
+
 - 🔭 I’m currently working on my bachelor degree in Software Engineer.
+
 - 🌱 I’m currently learning C/C++ and Java.
+
 - 👯 I’m looking to collaborate on open source projects.
+
 - 💬 Ask me about anything, I will be happy to help!
+
 - ⚡ Fun fact: I love music from all types and I love
  linux, so if you are a microsoft fan, I am so sorry
+
 - 📫 How to reach me: I will answer faster
  on Whatsapp or gmail...
 </p>
