@@ -1,6 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" alt="img" src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/profile-git.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=l1n3rd4&show_icons=true&theme=dracula" width="50%" height="auto" />
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-henrique-guimarães-bb1247119)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leonardo.guimaraeslhg@gmail.com)
@@ -19,4 +20,3 @@
 - 📫 How to reach me: I will answer faster
  on Whatsapp or gmail...
 </p>
-<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=l1n3rd4&show_icons=true&theme=dracula" width="50%" height="auto" />
