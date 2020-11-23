@@ -21,8 +21,6 @@
 
 - 📫 How to reach me:
 
- ps.: I will answer faster on Whatsapp or gmail...
-
 </p>
 
 
@@ -30,3 +28,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leonardo.guimaraeslhg@gmail.com)
 <a href="https://open.spotify.com/user/leonardo.guimaraes20?si=VMq21jurTra4zEw8DPsHDw" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531996731285&text=Ol%C3%A1%2C%20tudo%20joia%3F%20)
+
+<p>
+ 		ps.: I will answer faster on Whatsapp or gmail...
+</p>
