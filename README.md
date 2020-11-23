@@ -5,21 +5,21 @@
 
 <p align="left" width="30%">
 
-- 🎓  I’m currently working on my bachelor degree in Software Engineer.
+- 🎓 I’m currently working on my bachelor degree in Software Engineer 🖥️.
 
--
+- 📑 I'm helping to develop Nanvix <a href="https://github.com/nanvix" target="_blank"><img src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/nanvix.png" alt="Nanvix"></a>
 
-- 🌱 I’m currently learning C/C++ and Java.
+- 🍵 I’m currently learning C/C++ and Java.
 
-- 👯 I’m looking to collaborate on open source projects.
+- I’m looking to collaborate on open source projects.
 
-- ♬I love music from all types
+- I love music from all types, and I play keyboard 🎹 and guitar 🎸!
 
-- I love linux, so if you are a microsoft fan, I am so sorry
+- I love linux 🐧, so if you are a microsoft fan, I am so sorry 😁.
 
--  Ask me about anything, I will be happy to help!
+- Ask me about anything, I will be happy to help! 😉
 
-- 📫 How to reach me:
+- How to reach me:
 
 </p>
 
