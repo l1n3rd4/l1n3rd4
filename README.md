@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently working on my bachelor degree in Software Engineer 🖥️.
 
-- 📑 I'm helping to develop Nanvix <a href="https://github.com/nanvix" target="_blank"><img src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/nanvix.png" alt="Nanvix"></a>
+- 📑 I'm helping to develop Nanvix <a href="https://github.com/nanvix" target="_blank"><img width="20px" src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/nanvix.png" alt="Nanvix"></a>
 
 - 🍵 I’m currently learning C/C++ and Java.
 
