@@ -5,7 +5,7 @@
 <p align="left" width="30%">
 
 
-- 🔭 I’m currently working on my bachelor degre in Software Engineer.
+- 🔭 I’m currently working on my bachelor degree in Software Engineer.
 - 🌱 I’m currently learning C/C++ and Java.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help ...
