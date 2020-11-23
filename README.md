@@ -1,19 +1,19 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" alt="img" src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/profile-git.jpg" width="50%" height="auto" />
 <img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=l1n3rd4&show_icons=true&theme=dracula" width="50%" height="auto" />
 
 <p align="left" width="30%">
 
-- 🎓 I’m currently working on my bachelor degree in Software Engineer 🖥️.
+-  I’m currently working on my bachelor degree in Software Engineer 🎓🖥️.
 
-- 📑 I'm helping to develop Nanvix <a href="https://github.com/nanvix" target="_blank"><img width="20px" src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/nanvix.png" alt="Nanvix"></a>
+-  I'm helping to develop Nanvix  <a href="https://github.com/nanvix" target="_blank"><img width="23px" src="https://github.com/l1n3rd4/l1n3rd4/blob/main/pics/nanvix.png" alt="Nanvix"></a>
 
-- 🍵 I’m currently learning C/C++ and Java.
+- I’m currently learning C/C++ and Java 🍵.
 
-- I’m looking to collaborate on open source projects.
+- I’m looking to collaborate on open source projects 📑.
 
-- I love music from all types, and I play keyboard 🎹 and guitar 🎸!
+- I play keyboard 🎹 and guitar 🎸!
 
 - I love linux 🐧, so if you are a microsoft fan, I am so sorry 😁.
 
