@@ -5,23 +5,24 @@
 
 <p align="left" width="30%">
 
-- 🔭 I’m currently working on my bachelor degree in Software Engineer.
+- 🎓  I’m currently working on my bachelor degree in Software Engineer.
+
+-
 
 - 🌱 I’m currently learning C/C++ and Java.
 
 - 👯 I’m looking to collaborate on open source projects.
 
-- 💬 Ask me about anything, I will be happy to help!
+- ♬I love music from all types
 
-- ⚡ Fun fact: I love music from all types and I love
- linux, so if you are a microsoft fan, I am so sorry
+- I love linux, so if you are a microsoft fan, I am so sorry
 
-- 📫 How to reach me: I will answer faster
- on Whatsapp or gmail...
+-  Ask me about anything, I will be happy to help!
 
+- 📫 How to reach me:
 
+ ps.: I will answer faster on Whatsapp or gmail...
 
- 
 </p>
 
 
