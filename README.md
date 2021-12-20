@@ -7,9 +7,9 @@
 
 -  I’m currently working on my bachelor degree in Software Engineer 🎓🖥️.
 
-- I’m currently learning C/C++ and Java 🍵.
+- I’m currently learning Python, C/C++ and Java 🍵.
 
-- I’m looking to collaborate on open source projects 📑.
+- I’m looking forward to collaborate on open source projects 📑.
 
 - I play keyboard 🎹 and guitar 🎸!
 
