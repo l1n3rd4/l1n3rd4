@@ -5,15 +5,15 @@
 
 <p align="left" width="30%">
 
--  I’m currently working on my bachelor degree in Software Engineer 🎓🖥️.
+-  I’m currently working on my bachelor degree in Game Development 🎓.
 
-- I’m currently learning Python, C/C++ and Java 🍵.
+- I’m currently learning C#(.NET), Angular and Flutter 🖥️.
 
 - I’m looking forward to collaborate on open source projects 📑.
 
 - I play keyboard 🎹 and guitar 🎸!
 
-- I love linux 🐧, so if you are a microsoft fan, I am so sorry 😁.
+- I love operating systems and spent some time with Linux (Ubuntu | Debian, Arch | Manjaro) 😁.
 
 - Ask me about anything, I will be happy to help! 😉
 
