@@ -5,7 +5,7 @@
 
 <p align="left" width="30%">
 
--  I’m currently working on my bachelor degree in Game Development 🎓.
+-  I’m currently working on my bachelor degree in Software Development 🎓.
 
 - I’m currently learning C#(.NET), Angular and Flutter 🖥️.
 
